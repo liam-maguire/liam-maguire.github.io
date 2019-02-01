@@ -1,0 +1,40 @@
+
+p {
+
+}
+
+h1 {
+    font-size: 250%;
+    font-weight: bold;
+    color: #6F2232;
+}
+
+h2 {
+    font-size: 150%;
+    font-style: italic;
+    color: #950740
+}
+
+body {
+    background: black;
+    color: white;
+    font-size: 16pt;
+    font-family: 'Rubik', sans-serif;
+}
+
+nav a {
+    display: inline-block;
+    border: 5px solid #C3073F;
+    padding: 10px;
+    margin: 5px;
+    background: white;
+}
+
+a {
+    color: #950740;
+    text-decoration: none;
+}
+
+a:hover{
+    color: blue;
+}
